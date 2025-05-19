@@ -1,0 +1,7 @@
+com\ms\email\models\EmailModel.class
+com\ms\email\repositories\EmailRepository.class
+com\ms\email\enums\StatusEmail.class
+com\ms\email\DTOs\EmailDTO.class
+com\ms\email\Service\EmailService.class
+com\ms\email\EmailApplication.class
+com\ms\email\Controllers\EmailController.class
